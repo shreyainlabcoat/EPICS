@@ -1,8 +1,9 @@
-line no, name of file and changes made
-add comments in css index
+Date: 14/04/2024
 
-changes in : index.css
-line: 98 bg colour
+path: src
+nams: index.css
+line no: 98 
+change of: bg colour
 the change:
 nav {
   display: flex;
@@ -12,14 +13,16 @@ nav {
   position: sticky;
   top: 0;
 }
-changes in: index.css
-line: 131 bg colour
+path: src
+nams: index.css
+line no : 131 
+change of: bg colour
 the change:
 nav ul li a:not(.active):hover{
   background-color: #9B8EA8;
 }
-made a file AdminLanding in pages Admin section
-imported adminlanding in app. jss line no 18
-added route path of admin landing line no 52 & 53
-made AdminLanding page in Admin Folder
-css for Admin is in indexs.css
+1. made AdminLanding page in Admin Folder
+2. made a file AdminLanding in pages Admin section
+3. imported adminlanding in app. jss in line no 18
+4. added route path of admin landing line no 52 & 53
+5. the css for Admin is in indexs.css
